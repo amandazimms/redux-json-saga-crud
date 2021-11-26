@@ -1,0 +1,11 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Amanda",
+      "email": "amanda.zimms@gmail.com",
+      "phone": "218-791-5666",
+      "address": "Minneapolis, MN"
+    }
+  ]
+}
